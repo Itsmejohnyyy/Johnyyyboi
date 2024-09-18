@@ -1,0 +1,11 @@
+totalHoursWorked
+ratePerHour
+empName
+empID
+
+
+public HourlyEmployee () {}
+public HourlyEmployee (int empID, String empName) {}
+
+
+
